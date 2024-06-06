@@ -7,22 +7,23 @@
 </head>
 <body>
     <h1>Star Wars Characters</h1>
-    <ul>
-        {% for character in characters %}
-        <li>
-            <strong>{{ character.name }}</strong> - {{ character.hair_color }}
-            <ul>
-                <li>Homeworld: {{ character.homeworld }}</li>
-                <li>Species:
-                    <ul>
-                        {% for species in character.species %}
-                            <li>{{ species }}</li>
-                        {% endfor %}
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        {% endfor %}
-    </ul>
+    <form method="post" action="/">
+        <label for="json-dropdown">Select your Difficulty:</label>
+        <select name="json-dropdown" id="json-dropdown">
+            <option value="sw_easy">Padawan (Beginner)</option>
+            {% if show_med_level %}
+            <option value="sw_mid">Jedi Knight (Intermediate)</option>
+            {% endif %}
+            <option value="swapi_characters2">Jedi Master (Advanced)</option>
+        </select>
+        <p>
+            <label for="attribute-dropdown">Select your question type:</label>
+            <select name="attribute-dropdown" id="attribute-dropdown">
+                <option value="homeworld">Homeworld</option>
+                <option value="species">Species</option>
+            </select>
+        </p>
+        <button type="submit">Load</button>
+    </form>
 </body>
 </html>
