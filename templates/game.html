@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Star Wars Trivia Game</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script>
+        function showHint() {
+            document.getElementById('hint-image').style.display = 'block';
+        }
+    </script>
+</head>
+<body>
+    <h1>Star Wars Trivia Game</h1>
+    <p>Guess the {{ attribute }} of the character:</p>
+    <p><strong>{{ name }}</strong></p>
+
+    <form method="post" action="{{ url_for('check_answer', filename=filename) }}">
+        <label for="guess">Your guess:</label>
+        <input type="text" id="guess" name="guess" required>
+        <input type="hidden" name="attribute" value="{{ attribute }}">
+        <input type="hidden" name="correct_answer" value="{{ homeworld if attribute == 'homeworld' else species }}">
+        <input type="hidden" name="character_name" value="{{ name }}">
+        <button type="submit">Submit</button>
+    </form>
+    <a href="{{ url_for('index') }}">Back</a>
+    <p>
+        <button onclick="showHint()">Hint</button>
+        <img id="hint-image" src="{{ image_url }}" alt="Hint Image" style="display:none;">
+    </p>
+
+</body>
+</html>

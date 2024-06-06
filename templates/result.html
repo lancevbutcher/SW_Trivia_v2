@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Star Wars Trivia Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Star Wars Trivia Result</h1>
+    <p>Your Guess: <strong>{{ guess }}</strong></p>
+    <p><strong>{{ result }}</strong></p>
+    <p>Character: <strong>{{ character_name }}</strong></p>
+    {% if attribute == 'homeworld' %}
+        <p>Homeworld: <strong>{{ homeworld_name }}</strong></p>
+    {% else %}
+        <p>Species: <strong>{{ homeworld_name }}</strong></p>
+    {% endif %}
+    <a href="{{ url_for('index') }}">Back</a>
+
+</body>
+</html>

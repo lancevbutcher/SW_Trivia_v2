@@ -1,9 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-from sw_game import character_name
 
-
-def search_sw_img():
+def search_sw_img(character_name):
     search_query = f'{character_name} Star Wars'
     search_url = f'https://www.google.com/search?q={search_query}&tbm=isch'
     # search for images
@@ -14,8 +12,8 @@ def search_sw_img():
         image_elements = soup.find_all('img')
         if len(image_elements) >= 2:
             second_image_url = image_elements[1]['src']
-            print('Second image URL:', second_image_url)
+            return second_image_url
         else:
-            print('Not enough images found in the search results')
+            return None
     else:
-        print(f'Failed to fetch images from search engine (status code: {response.status_code})')
+        return None
