@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f735c38-ccd5-45a0-8529-320004bb35e8" name="Changes" comment="v0.1">
-      <change afterPath="$PROJECT_DIR$/sw_getdata2.py" afterDir="false" />
-    </list>
+    <list default="true" id="4f735c38-ccd5-45a0-8529-320004bb35e8" name="Changes" comment="v0.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717643910298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v0.1">
+      <option name="closed" value="true" />
+      <created>1717648548407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717648548407</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v0.1">
+      <option name="closed" value="true" />
+      <created>1717648606265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717648606265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
