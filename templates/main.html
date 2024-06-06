@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Star Wars Characters</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Star Wars Characters</h1>
+    <ul>
+        {% for character in characters %}
+        <li>
+            <strong>{{ character.name }}</strong> - {{ character.hair_color }}
+            <ul>
+                <li>Homeworld: {{ character.homeworld }}</li>
+                <li>Species:
+                    <ul>
+                        {% for species in character.species %}
+                            <li>{{ species }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

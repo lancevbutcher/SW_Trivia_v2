@@ -1,0 +1,920 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "blond"
+    },
+    {
+        "name": "C-3PO",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/2/"
+        ],
+        "hair_color": "n/a"
+    },
+    {
+        "name": "R2-D2",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/2/"
+        ],
+        "hair_color": "n/a"
+    },
+    {
+        "name": "Darth Vader",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "none"
+    },
+    {
+        "name": "Leia Organa",
+        "homeworld": "https://swapi.dev/api/planets/2/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Owen Lars",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "brown, grey"
+    },
+    {
+        "name": "Beru Whitesun lars",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "R5-D4",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/2/"
+        ],
+        "hair_color": "n/a"
+    },
+    {
+        "name": "Biggs Darklighter",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/1/"
+        ],
+        "species": [],
+        "hair_color": "black"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "homeworld": "https://swapi.dev/api/planets/20/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "auburn, white"
+    },
+    {
+        "name": "Anakin Skywalker",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "blond"
+    },
+    {
+        "name": "Wilhuff Tarkin",
+        "homeworld": "https://swapi.dev/api/planets/21/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "auburn, grey"
+    },
+    {
+        "name": "Chewbacca",
+        "homeworld": "https://swapi.dev/api/planets/14/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/3/"
+        ],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Han Solo",
+        "homeworld": "https://swapi.dev/api/planets/22/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Greedo",
+        "homeworld": "https://swapi.dev/api/planets/23/",
+        "films": [
+            "https://swapi.dev/api/films/1/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/4/"
+        ],
+        "hair_color": "n/a"
+    },
+    {
+        "name": "Jabba Desilijic Tiure",
+        "homeworld": "https://swapi.dev/api/planets/24/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/5/"
+        ],
+        "hair_color": "n/a"
+    },
+    {
+        "name": "Wedge Antilles",
+        "homeworld": "https://swapi.dev/api/planets/22/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Jek Tono Porkins",
+        "homeworld": "https://swapi.dev/api/planets/26/",
+        "films": [
+            "https://swapi.dev/api/films/1/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Yoda",
+        "homeworld": "https://swapi.dev/api/planets/28/",
+        "films": [
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/6/"
+        ],
+        "hair_color": "white"
+    },
+    {
+        "name": "Palpatine",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "grey"
+    },
+    {
+        "name": "Boba Fett",
+        "homeworld": "https://swapi.dev/api/planets/10/",
+        "films": [
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/",
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [],
+        "hair_color": "black"
+    },
+    {
+        "name": "IG-88",
+        "homeworld": "https://swapi.dev/api/planets/28/",
+        "films": [
+            "https://swapi.dev/api/films/2/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/2/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Bossk",
+        "homeworld": "https://swapi.dev/api/planets/29/",
+        "films": [
+            "https://swapi.dev/api/films/2/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/7/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Lando Calrissian",
+        "homeworld": "https://swapi.dev/api/planets/30/",
+        "films": [
+            "https://swapi.dev/api/films/2/",
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [],
+        "hair_color": "black"
+    },
+    {
+        "name": "Lobot",
+        "homeworld": "https://swapi.dev/api/planets/6/",
+        "films": [
+            "https://swapi.dev/api/films/2/"
+        ],
+        "species": [],
+        "hair_color": "none"
+    },
+    {
+        "name": "Ackbar",
+        "homeworld": "https://swapi.dev/api/planets/31/",
+        "films": [
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/8/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Mon Mothma",
+        "homeworld": "https://swapi.dev/api/planets/32/",
+        "films": [
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [],
+        "hair_color": "auburn"
+    },
+    {
+        "name": "Arvel Crynyd",
+        "homeworld": "https://swapi.dev/api/planets/28/",
+        "films": [
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Wicket Systri Warrick",
+        "homeworld": "https://swapi.dev/api/planets/7/",
+        "films": [
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/9/"
+        ],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Nien Nunb",
+        "homeworld": "https://swapi.dev/api/planets/33/",
+        "films": [
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/10/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "homeworld": "https://swapi.dev/api/planets/28/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Nute Gunray",
+        "homeworld": "https://swapi.dev/api/planets/18/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/11/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Finis Valorum",
+        "homeworld": "https://swapi.dev/api/planets/9/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [],
+        "hair_color": "blond"
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Jar Jar Binks",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/12/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Roos Tarpals",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/12/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Rugor Nass",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/12/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Ric Oli\u00e9",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Watto",
+        "homeworld": "https://swapi.dev/api/planets/34/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/13/"
+        ],
+        "hair_color": "black"
+    },
+    {
+        "name": "Sebulba",
+        "homeworld": "https://swapi.dev/api/planets/35/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/14/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Quarsh Panaka",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [],
+        "hair_color": "black"
+    },
+    {
+        "name": "Shmi Skywalker",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [],
+        "hair_color": "black"
+    },
+    {
+        "name": "Darth Maul",
+        "homeworld": "https://swapi.dev/api/planets/36/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/22/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Bib Fortuna",
+        "homeworld": "https://swapi.dev/api/planets/37/",
+        "films": [
+            "https://swapi.dev/api/films/3/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/15/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Ayla Secura",
+        "homeworld": "https://swapi.dev/api/planets/37/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/15/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Ratts Tyerel",
+        "homeworld": "https://swapi.dev/api/planets/38/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/16/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Dud Bolt",
+        "homeworld": "https://swapi.dev/api/planets/39/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/17/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Gasgano",
+        "homeworld": "https://swapi.dev/api/planets/40/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/18/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Ben Quadinaros",
+        "homeworld": "https://swapi.dev/api/planets/41/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/19/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Mace Windu",
+        "homeworld": "https://swapi.dev/api/planets/42/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "none"
+    },
+    {
+        "name": "Ki-Adi-Mundi",
+        "homeworld": "https://swapi.dev/api/planets/43/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/20/"
+        ],
+        "hair_color": "white"
+    },
+    {
+        "name": "Kit Fisto",
+        "homeworld": "https://swapi.dev/api/planets/44/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/21/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Eeth Koth",
+        "homeworld": "https://swapi.dev/api/planets/45/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/22/"
+        ],
+        "hair_color": "black"
+    },
+    {
+        "name": "Adi Gallia",
+        "homeworld": "https://swapi.dev/api/planets/9/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/23/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Saesee Tiin",
+        "homeworld": "https://swapi.dev/api/planets/47/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/24/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Yarael Poof",
+        "homeworld": "https://swapi.dev/api/planets/48/",
+        "films": [
+            "https://swapi.dev/api/films/4/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/25/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Plo Koon",
+        "homeworld": "https://swapi.dev/api/planets/49/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/26/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Mas Amedda",
+        "homeworld": "https://swapi.dev/api/planets/50/",
+        "films": [
+            "https://swapi.dev/api/films/4/",
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/27/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Gregar Typho",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [],
+        "hair_color": "black"
+    },
+    {
+        "name": "Cord\u00e9",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Cliegg Lars",
+        "homeworld": "https://swapi.dev/api/planets/1/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Poggle the Lesser",
+        "homeworld": "https://swapi.dev/api/planets/11/",
+        "films": [
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/28/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Luminara Unduli",
+        "homeworld": "https://swapi.dev/api/planets/51/",
+        "films": [
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/29/"
+        ],
+        "hair_color": "black"
+    },
+    {
+        "name": "Barriss Offee",
+        "homeworld": "https://swapi.dev/api/planets/51/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/29/"
+        ],
+        "hair_color": "black"
+    },
+    {
+        "name": "Dorm\u00e9",
+        "homeworld": "https://swapi.dev/api/planets/8/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/1/"
+        ],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Dooku",
+        "homeworld": "https://swapi.dev/api/planets/52/",
+        "films": [
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/1/"
+        ],
+        "hair_color": "white"
+    },
+    {
+        "name": "Bail Prestor Organa",
+        "homeworld": "https://swapi.dev/api/planets/2/",
+        "films": [
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/1/"
+        ],
+        "hair_color": "black"
+    },
+    {
+        "name": "Jango Fett",
+        "homeworld": "https://swapi.dev/api/planets/53/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [],
+        "hair_color": "black"
+    },
+    {
+        "name": "Zam Wesell",
+        "homeworld": "https://swapi.dev/api/planets/54/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/30/"
+        ],
+        "hair_color": "blonde"
+    },
+    {
+        "name": "Dexter Jettster",
+        "homeworld": "https://swapi.dev/api/planets/55/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/31/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Lama Su",
+        "homeworld": "https://swapi.dev/api/planets/10/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/32/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Taun We",
+        "homeworld": "https://swapi.dev/api/planets/10/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/32/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Jocasta Nu",
+        "homeworld": "https://swapi.dev/api/planets/9/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/1/"
+        ],
+        "hair_color": "white"
+    },
+    {
+        "name": "R4-P17",
+        "homeworld": "https://swapi.dev/api/planets/28/",
+        "films": [
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "none"
+    },
+    {
+        "name": "Wat Tambor",
+        "homeworld": "https://swapi.dev/api/planets/56/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/33/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "San Hill",
+        "homeworld": "https://swapi.dev/api/planets/57/",
+        "films": [
+            "https://swapi.dev/api/films/5/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/34/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Shaak Ti",
+        "homeworld": "https://swapi.dev/api/planets/58/",
+        "films": [
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/35/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Grievous",
+        "homeworld": "https://swapi.dev/api/planets/59/",
+        "films": [
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/36/"
+        ],
+        "hair_color": "none"
+    },
+    {
+        "name": "Tarfful",
+        "homeworld": "https://swapi.dev/api/planets/14/",
+        "films": [
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/3/"
+        ],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Raymus Antilles",
+        "homeworld": "https://swapi.dev/api/planets/2/",
+        "films": [
+            "https://swapi.dev/api/films/1/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "brown"
+    },
+    {
+        "name": "Sly Moore",
+        "homeworld": "https://swapi.dev/api/planets/60/",
+        "films": [
+            "https://swapi.dev/api/films/5/",
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [],
+        "hair_color": "none"
+    },
+    {
+        "name": "Tion Medon",
+        "homeworld": "https://swapi.dev/api/planets/12/",
+        "films": [
+            "https://swapi.dev/api/films/6/"
+        ],
+        "species": [
+            "https://swapi.dev/api/species/37/"
+        ],
+        "hair_color": "none"
+    }
+]

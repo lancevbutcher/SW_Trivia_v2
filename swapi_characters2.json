@@ -1,0 +1,594 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "hair_color": "blond",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "C-3PO",
+        "hair_color": "n/a",
+        "homeworld": "Tatooine",
+        "species": [
+            "Droid"
+        ]
+    },
+    {
+        "name": "R2-D2",
+        "hair_color": "n/a",
+        "homeworld": "Naboo",
+        "species": [
+            "Droid"
+        ]
+    },
+    {
+        "name": "Darth Vader",
+        "hair_color": "none",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "Leia Organa",
+        "hair_color": "brown",
+        "homeworld": "Alderaan",
+        "species": []
+    },
+    {
+        "name": "Owen Lars",
+        "hair_color": "brown, grey",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "Beru Whitesun lars",
+        "hair_color": "brown",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "R5-D4",
+        "hair_color": "n/a",
+        "homeworld": "Tatooine",
+        "species": [
+            "Droid"
+        ]
+    },
+    {
+        "name": "Biggs Darklighter",
+        "hair_color": "black",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "hair_color": "auburn, white",
+        "homeworld": "Stewjon",
+        "species": []
+    },
+    {
+        "name": "Anakin Skywalker",
+        "hair_color": "blond",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "Wilhuff Tarkin",
+        "hair_color": "auburn, grey",
+        "homeworld": "Eriadu",
+        "species": []
+    },
+    {
+        "name": "Chewbacca",
+        "hair_color": "brown",
+        "homeworld": "Kashyyyk",
+        "species": [
+            "Wookie"
+        ]
+    },
+    {
+        "name": "Han Solo",
+        "hair_color": "brown",
+        "homeworld": "Corellia",
+        "species": []
+    },
+    {
+        "name": "Greedo",
+        "hair_color": "n/a",
+        "homeworld": "Rodia",
+        "species": [
+            "Rodian"
+        ]
+    },
+    {
+        "name": "Jabba Desilijic Tiure",
+        "hair_color": "n/a",
+        "homeworld": "Nal Hutta",
+        "species": [
+            "Hutt"
+        ]
+    },
+    {
+        "name": "Wedge Antilles",
+        "hair_color": "brown",
+        "homeworld": "Corellia",
+        "species": []
+    },
+    {
+        "name": "Jek Tono Porkins",
+        "hair_color": "brown",
+        "homeworld": "Bestine IV",
+        "species": []
+    },
+    {
+        "name": "Yoda",
+        "hair_color": "white",
+        "homeworld": "unknown",
+        "species": [
+            "Yoda's species"
+        ]
+    },
+    {
+        "name": "Palpatine",
+        "hair_color": "grey",
+        "homeworld": "Naboo",
+        "species": []
+    },
+    {
+        "name": "Boba Fett",
+        "hair_color": "black",
+        "homeworld": "Kamino",
+        "species": []
+    },
+    {
+        "name": "IG-88",
+        "hair_color": "none",
+        "homeworld": "unknown",
+        "species": [
+            "Droid"
+        ]
+    },
+    {
+        "name": "Bossk",
+        "hair_color": "none",
+        "homeworld": "Trandosha",
+        "species": [
+            "Trandoshan"
+        ]
+    },
+    {
+        "name": "Lando Calrissian",
+        "hair_color": "black",
+        "homeworld": "Socorro",
+        "species": []
+    },
+    {
+        "name": "Lobot",
+        "hair_color": "none",
+        "homeworld": "Bespin",
+        "species": []
+    },
+    {
+        "name": "Ackbar",
+        "hair_color": "none",
+        "homeworld": "Mon Cala",
+        "species": [
+            "Mon Calamari"
+        ]
+    },
+    {
+        "name": "Mon Mothma",
+        "hair_color": "auburn",
+        "homeworld": "Chandrila",
+        "species": []
+    },
+    {
+        "name": "Arvel Crynyd",
+        "hair_color": "brown",
+        "homeworld": "unknown",
+        "species": []
+    },
+    {
+        "name": "Wicket Systri Warrick",
+        "hair_color": "brown",
+        "homeworld": "Endor",
+        "species": [
+            "Ewok"
+        ]
+    },
+    {
+        "name": "Nien Nunb",
+        "hair_color": "none",
+        "homeworld": "Sullust",
+        "species": [
+            "Sullustan"
+        ]
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "hair_color": "brown",
+        "homeworld": "unknown",
+        "species": []
+    },
+    {
+        "name": "Nute Gunray",
+        "hair_color": "none",
+        "homeworld": "Cato Neimoidia",
+        "species": [
+            "Neimodian"
+        ]
+    },
+    {
+        "name": "Finis Valorum",
+        "hair_color": "blond",
+        "homeworld": "Coruscant",
+        "species": []
+    },
+    {
+        "name": "Padm\u00e9 Amidala",
+        "hair_color": "brown",
+        "homeworld": "Naboo",
+        "species": []
+    },
+    {
+        "name": "Jar Jar Binks",
+        "hair_color": "none",
+        "homeworld": "Naboo",
+        "species": [
+            "Gungan"
+        ]
+    },
+    {
+        "name": "Roos Tarpals",
+        "hair_color": "none",
+        "homeworld": "Naboo",
+        "species": [
+            "Gungan"
+        ]
+    },
+    {
+        "name": "Rugor Nass",
+        "hair_color": "none",
+        "homeworld": "Naboo",
+        "species": [
+            "Gungan"
+        ]
+    },
+    {
+        "name": "Ric Oli\u00e9",
+        "hair_color": "brown",
+        "homeworld": "Naboo",
+        "species": []
+    },
+    {
+        "name": "Watto",
+        "hair_color": "black",
+        "homeworld": "Toydaria",
+        "species": [
+            "Toydarian"
+        ]
+    },
+    {
+        "name": "Sebulba",
+        "hair_color": "none",
+        "homeworld": "Malastare",
+        "species": [
+            "Dug"
+        ]
+    },
+    {
+        "name": "Quarsh Panaka",
+        "hair_color": "black",
+        "homeworld": "Naboo",
+        "species": []
+    },
+    {
+        "name": "Shmi Skywalker",
+        "hair_color": "black",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "Darth Maul",
+        "hair_color": "none",
+        "homeworld": "Dathomir",
+        "species": [
+            "Zabrak"
+        ]
+    },
+    {
+        "name": "Bib Fortuna",
+        "hair_color": "none",
+        "homeworld": "Ryloth",
+        "species": [
+            "Twi'lek"
+        ]
+    },
+    {
+        "name": "Ayla Secura",
+        "hair_color": "none",
+        "homeworld": "Ryloth",
+        "species": [
+            "Twi'lek"
+        ]
+    },
+    {
+        "name": "Ratts Tyerel",
+        "hair_color": "none",
+        "homeworld": "Aleen Minor",
+        "species": [
+            "Aleena"
+        ]
+    },
+    {
+        "name": "Dud Bolt",
+        "hair_color": "none",
+        "homeworld": "Vulpter",
+        "species": [
+            "Vulptereen"
+        ]
+    },
+    {
+        "name": "Gasgano",
+        "hair_color": "none",
+        "homeworld": "Troiken",
+        "species": [
+            "Xexto"
+        ]
+    },
+    {
+        "name": "Ben Quadinaros",
+        "hair_color": "none",
+        "homeworld": "Tund",
+        "species": [
+            "Toong"
+        ]
+    },
+    {
+        "name": "Mace Windu",
+        "hair_color": "none",
+        "homeworld": "Haruun Kal",
+        "species": []
+    },
+    {
+        "name": "Ki-Adi-Mundi",
+        "hair_color": "white",
+        "homeworld": "Cerea",
+        "species": [
+            "Cerean"
+        ]
+    },
+    {
+        "name": "Kit Fisto",
+        "hair_color": "none",
+        "homeworld": "Glee Anselm",
+        "species": [
+            "Nautolan"
+        ]
+    },
+    {
+        "name": "Eeth Koth",
+        "hair_color": "black",
+        "homeworld": "Iridonia",
+        "species": [
+            "Zabrak"
+        ]
+    },
+    {
+        "name": "Adi Gallia",
+        "hair_color": "none",
+        "homeworld": "Coruscant",
+        "species": [
+            "Tholothian"
+        ]
+    },
+    {
+        "name": "Saesee Tiin",
+        "hair_color": "none",
+        "homeworld": "Iktotch",
+        "species": [
+            "Iktotchi"
+        ]
+    },
+    {
+        "name": "Yarael Poof",
+        "hair_color": "none",
+        "homeworld": "Quermia",
+        "species": [
+            "Quermian"
+        ]
+    },
+    {
+        "name": "Plo Koon",
+        "hair_color": "none",
+        "homeworld": "Dorin",
+        "species": [
+            "Kel Dor"
+        ]
+    },
+    {
+        "name": "Mas Amedda",
+        "hair_color": "none",
+        "homeworld": "Champala",
+        "species": [
+            "Chagrian"
+        ]
+    },
+    {
+        "name": "Gregar Typho",
+        "hair_color": "black",
+        "homeworld": "Naboo",
+        "species": []
+    },
+    {
+        "name": "Cord\u00e9",
+        "hair_color": "brown",
+        "homeworld": "Naboo",
+        "species": []
+    },
+    {
+        "name": "Cliegg Lars",
+        "hair_color": "brown",
+        "homeworld": "Tatooine",
+        "species": []
+    },
+    {
+        "name": "Poggle the Lesser",
+        "hair_color": "none",
+        "homeworld": "Geonosis",
+        "species": [
+            "Geonosian"
+        ]
+    },
+    {
+        "name": "Luminara Unduli",
+        "hair_color": "black",
+        "homeworld": "Mirial",
+        "species": [
+            "Mirialan"
+        ]
+    },
+    {
+        "name": "Barriss Offee",
+        "hair_color": "black",
+        "homeworld": "Mirial",
+        "species": [
+            "Mirialan"
+        ]
+    },
+    {
+        "name": "Dorm\u00e9",
+        "hair_color": "brown",
+        "homeworld": "Naboo",
+        "species": [
+            "Human"
+        ]
+    },
+    {
+        "name": "Dooku",
+        "hair_color": "white",
+        "homeworld": "Serenno",
+        "species": [
+            "Human"
+        ]
+    },
+    {
+        "name": "Bail Prestor Organa",
+        "hair_color": "black",
+        "homeworld": "Alderaan",
+        "species": [
+            "Human"
+        ]
+    },
+    {
+        "name": "Jango Fett",
+        "hair_color": "black",
+        "homeworld": "Concord Dawn",
+        "species": []
+    },
+    {
+        "name": "Zam Wesell",
+        "hair_color": "blonde",
+        "homeworld": "Zolan",
+        "species": [
+            "Clawdite"
+        ]
+    },
+    {
+        "name": "Dexter Jettster",
+        "hair_color": "none",
+        "homeworld": "Ojom",
+        "species": [
+            "Besalisk"
+        ]
+    },
+    {
+        "name": "Lama Su",
+        "hair_color": "none",
+        "homeworld": "Kamino",
+        "species": [
+            "Kaminoan"
+        ]
+    },
+    {
+        "name": "Taun We",
+        "hair_color": "none",
+        "homeworld": "Kamino",
+        "species": [
+            "Kaminoan"
+        ]
+    },
+    {
+        "name": "Jocasta Nu",
+        "hair_color": "white",
+        "homeworld": "Coruscant",
+        "species": [
+            "Human"
+        ]
+    },
+    {
+        "name": "R4-P17",
+        "hair_color": "none",
+        "homeworld": "unknown",
+        "species": []
+    },
+    {
+        "name": "Wat Tambor",
+        "hair_color": "none",
+        "homeworld": "Skako",
+        "species": [
+            "Skakoan"
+        ]
+    },
+    {
+        "name": "San Hill",
+        "hair_color": "none",
+        "homeworld": "Muunilinst",
+        "species": [
+            "Muun"
+        ]
+    },
+    {
+        "name": "Shaak Ti",
+        "hair_color": "none",
+        "homeworld": "Shili",
+        "species": [
+            "Togruta"
+        ]
+    },
+    {
+        "name": "Grievous",
+        "hair_color": "none",
+        "homeworld": "Kalee",
+        "species": [
+            "Kaleesh"
+        ]
+    },
+    {
+        "name": "Tarfful",
+        "hair_color": "brown",
+        "homeworld": "Kashyyyk",
+        "species": [
+            "Wookie"
+        ]
+    },
+    {
+        "name": "Raymus Antilles",
+        "hair_color": "brown",
+        "homeworld": "Alderaan",
+        "species": []
+    },
+    {
+        "name": "Sly Moore",
+        "hair_color": "none",
+        "homeworld": "Umbara",
+        "species": []
+    },
+    {
+        "name": "Tion Medon",
+        "hair_color": "none",
+        "homeworld": "Utapau",
+        "species": [
+            "Pau'an"
+        ]
+    }
+]
