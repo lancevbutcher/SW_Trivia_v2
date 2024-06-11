@@ -3,3 +3,5 @@ requests
 beautifulsoup4
 launchdarkly-server-sdk
 ldclient
+flask_socketIO
+user_agents
